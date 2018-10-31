@@ -1,0 +1,16 @@
+# IDE
+.vs
+*.user
+
+# Test Results
+TestResult.xml
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+packages/
+nupkgs/
+.nuget/
+project.lock.json
